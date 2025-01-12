@@ -219,7 +219,7 @@ section .subtitulo{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/images/olho.gif") no-repeat center;
+    background: url("./images/olho.gif") no-repeat center;
     height: 100vh;
     color: #faf8f8;
     min-height: 500px;
